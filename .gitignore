@@ -1,0 +1,12 @@
+# Fotos originais (não otimizadas) — não fazem parte do site publicado
+/originais/
+
+# Configuração local de preview (Claude Code)
+/.claude/
+
+# Vercel
+.vercel
+
+# Sistema
+.DS_Store
+Thumbs.db
