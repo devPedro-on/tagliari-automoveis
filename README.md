@@ -4,7 +4,7 @@ Site de apresentação e conversão de clientes da **Tagliari Automóveis**, loj
 
 O site não é uma vitrine nem um e-commerce (a vitrine com o estoque atualizado é o [Instagram da loja](https://www.instagram.com/tagliari_automoveis/)) — o objetivo aqui é apresentar a loja, gerar confiança e converter visitantes em contatos via WhatsApp.
 
-🔗 **Site publicado:** _adicionar URL da Vercel após o deploy_
+🔗 **Site publicado:** https://tagliari-automoveis.vercel.app
 
 ## Seções
 
