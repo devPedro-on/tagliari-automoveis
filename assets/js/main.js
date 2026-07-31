@@ -93,6 +93,7 @@
     if (images.length < 2) {
       if (prevBtn) prevBtn.style.display = 'none';
       if (nextBtn) nextBtn.style.display = 'none';
+      if (dotsWrap) dotsWrap.style.display = 'none';
     }
 
     carousel.addEventListener('mouseenter', function () { if (timer) clearInterval(timer); });
